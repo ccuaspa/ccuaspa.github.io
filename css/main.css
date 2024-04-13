@@ -26,24 +26,7 @@
     
     text-align: center;    
 }
-.car-list-card-icon{
-    padding-right: 10px;
-}
-.list-more-info-btn{
-    color:white;
-
-    border-style: solid;
-    border-radius: 25px;
-    border-color: white;
-
-    padding: 10px 30px 10px 30px;
-    width:100%;
-}
-
 footer{
     padding: 10px 0px 10px 0px;
-}
-.footer-element-icon{
-    margin-right:10px;
 }
 
