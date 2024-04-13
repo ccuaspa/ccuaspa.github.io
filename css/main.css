@@ -5,6 +5,10 @@
     padding: 30px;
     margin-top: 60px;
 }
+.toolImg{
+    width:50px;
+    height:50px;
+}
 .car-list-card{
     border-style: solid;
     border-radius: 25px;
